@@ -1,0 +1,6 @@
+[console_scripts]
+create_dataset = infiniteremixer.data.createdataset:create_dataset
+fit_nearest_neighbours = infiniteremixer.search.fitnearestneighbours:fit_nearest_neighbours
+generate_remix = infiniteremixer.remix.generateremix:generate_remix
+segment = infiniteremixer.segmentation.segment:segment
+

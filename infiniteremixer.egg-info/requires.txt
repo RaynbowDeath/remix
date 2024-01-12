@@ -1,0 +1,6 @@
+librosa
+scikit-learn
+
+[test]
+pytest
+pytest-mock
